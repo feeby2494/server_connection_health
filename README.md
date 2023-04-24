@@ -6,10 +6,10 @@ by simply pinging Google's DNS server and other servers that may be remore or lo
 In order to use this correctly, a .env file is required with the ip addresses of
 servers that you need to ping.
 
-## Please configure the .env file.
+# Please configure the .env file.
     ADDRESSES="<your list of ip addresses delimited by ",">"
     
-##Make sure python-dotenv is installed to the local virtual environment.
+# Make sure python-dotenv is installed to the local virtual environment.
     python3 -m venv venv
     source venv/bin/activate
     pip install python-dotenv 
