@@ -1,9 +1,9 @@
 # server_connection_health
 
 Purpose of this script is to test and analyse internet and network connectivity 
-by simply pinging Google's DNS server and other servers that may be remore or local.
+by simply pinging Google's DNS server and other servers that may be remote or local.
 
-In order to use this correctly, a .env file is required with the ip addresses of
+In order to use this correctly, an .env file is required with the ip addresses of
 servers that you need to ping.
 
 # Please configure the .env file.
